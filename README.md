@@ -18,7 +18,7 @@ Three bisinuess questions were asked and answered:
 
 ## Results of the analysis
 
-Results and discussion were published on Medium: [Dive Into Boston and Seattle Airbnb Data](https://medium.com/@shubham.divakar/udacity-introduction-to-data-science-project-ebf627b11b70)
+Results and discussion were published on Medium: [Dive Into Boston and Seattle Airbnb Data from my blog](https://medium.com/@shubham.divakar/udacity-introduction-to-data-science-project-ebf627b11b70)
    
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
 - We gathered the Boston and Seattle Airbnb data, and compare the two dataset.
